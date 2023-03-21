@@ -1,10 +1,8 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamSeungChan&show_icons=true&theme=radical)
+
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=100&section=header&text=👋Donghyeon%20Kim&fontSize=40)
 
 <h3 align="center">
-hello! My name is Donghyun Kim. hello<br>
-I've tried and tried various projects!
+hello! My name is Seungchan Ham. hello<br>
 </h3>
 <h2>
   <strong> ⚡ Skill-stack</strong>
@@ -29,3 +27,5 @@ I've tried and tried various projects!
 </p>
 <br>
 <hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamSeungChan&show_icons=true&theme=radical)
