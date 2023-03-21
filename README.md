@@ -1,8 +1,5 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamSeungChan&show_icons=true&theme=radical)
-<!--
-**HamSeungChan/HamSeungChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=100&section=header&text=👋Donghyeon%20Kim&fontSize=40)
 
 <h3 align="center">
