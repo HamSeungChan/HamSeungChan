@@ -22,8 +22,8 @@ hello! My name is Seungchan Ham. hello<br>
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Infodon.tistory.com-20C997.svg?style=flat-square&logo=Velog&logoColor=white">
-  <img src="https://img.shields.io/badge/kimdonghyeon98@gmail.com-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/velog.io/@hsco618-20C997.svg?style=flat-square&logo=Velog&logoColor=white">
+  <img src="https://img.shields.io/badge/head0618@naver.com-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white">
 </p>
 <br>
 <hr>
