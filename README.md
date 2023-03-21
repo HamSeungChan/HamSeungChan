@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=100&section=header&text=👋Donghyeon%20Kim&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=100&section=header&text=👋Seungchan%20Ham&fontSize=40)
 
 <h3 align="center">
 hello! My name is Seungchan Ham. hello<br>
