@@ -24,3 +24,4 @@ hello! My name is Seungchan Ham. hello<br>
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamSeungChan&show_icons=true&theme=radical)
+<dr></dr>
